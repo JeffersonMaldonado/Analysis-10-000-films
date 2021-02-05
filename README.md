@@ -4,5 +4,9 @@ In this project I intend to analyze a database of 10,000 films that were evaluat
 
 ## Requiriments
 
-# Python
+### Python
 
+- pandas==0.24.2
+- numpy==1.20.0
+- matplotlib==3.3.3
+- seaborn 0.11.1
